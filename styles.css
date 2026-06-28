@@ -310,9 +310,9 @@ h3 {
 }
 
 .profile-photo {
-  width: 105px;
-  height: 105px;
-  border-radius: 50%;
+  width: 125px;
+  height: 125px;
+  border-radius: 60%;
   object-fit: cover;
   border: 3px solid rgba(255, 255, 255, 0.85);
   box-shadow: 0 10px 25px rgba(15, 23, 42, 0.22);
